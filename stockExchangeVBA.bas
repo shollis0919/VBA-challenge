@@ -23,7 +23,7 @@ lastRow = ws.Cells(Rows.Count, 1).End(xlUp).Row
     ws.Cells(1, 17).Value = "Value"
     ws.Cells(2, 15).Value = "Greatest % increase"
     ws.Cells(3, 15).Value = "Greatest % Decrease"
-    ws.Cells(4, 15).Value = "Greatest % Total Voilume"
+    ws.Cells(4, 15).Value = "Greatest % Total Volume"
 For i = 2 To lastRow
     If ws.Cells(i - 1, 1).Value <> ws.Cells(i, 1).Value Then
         sumTableRow = sumTableRow + 1
