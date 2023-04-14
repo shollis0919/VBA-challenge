@@ -1,10 +1,5 @@
 # VBA-challenge
-This program VBA is used to go through stock information in 1 year and produce and display info on:
-Price changes
-Percent of change on price
-Total stock volume
-The greatest inccrease and decrease in price
-Greatest amount of stock volume
+This program VBA is used to go through stock information in 1 year and produce and display info on: price changes, percent of change on price, total stock volume, the greatest inccrease and decrease in price, greatest amount of stock volume
 
 The program also works through each worksheet in an open spreadsheet
 
