@@ -82,12 +82,7 @@ For i = 2 To lastRow
 
 Next i
 
-    
-    
-    
-
 Next ws
-
 
 End Sub
 
